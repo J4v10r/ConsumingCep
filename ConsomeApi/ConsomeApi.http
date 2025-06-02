@@ -1,0 +1,6 @@
+@ConsomeApi_HostAddress = http://localhost:5078
+
+GET {{ConsomeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsomeApi", "ConsomeApi.csproj", "{49591C03-8C7C-4B3C-B094-FE782207AE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49591C03-8C7C-4B3C-B094-FE782207AE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49591C03-8C7C-4B3C-B094-FE782207AE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49591C03-8C7C-4B3C-B094-FE782207AE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49591C03-8C7C-4B3C-B094-FE782207AE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F22CF09-0437-4866-ACBE-A137630EC679}
+	EndGlobalSection
+EndGlobal

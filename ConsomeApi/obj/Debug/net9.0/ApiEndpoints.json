@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ConsomeApi.Controllers.CepController",
+    "Method": "ListarDadoscep",
+    "RelativePath": "api/Cep/cep",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cep",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConsomeApi.Services.Response.ViaCepResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
